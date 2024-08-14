@@ -99,7 +99,7 @@ section {
 }
 
 .hero {
-  background-image: url('/Images/OIP.jpeg');
+  background-image: url('/OIP.jpeg');
   height: 350px;
   background-size: cover;
   background-position: center center;
@@ -177,7 +177,7 @@ padding-top: 50px;
 }
 .full-banner-image {
   flex: 0 0 58.333333%;
-  background-image: url('/Images/adoption.jpeg');
+  background-image: url('/adoption.jpeg');
   background-size: cover;
   background-position: top center;
   min-height: 400px;
@@ -266,16 +266,16 @@ footer a:hover {
   background-position: center;
 }
 .twitter {
-  background-image: url('/Images/twitter.svg');
+  background-image: url('/twitter.svg');
 }
 .facebook {
-  background-image: url('/Images/facebook.svg');
+  background-image: url('/facebook.svg');
 }
 .instagram {
-  background-image: url('/Images/instagram.svg');
+  background-image: url('/instagram.svg');
 }
 .pinterest {
-  background-image: url('/Images/pinterest.svg');
+  background-image: url('/pinterest.svg');
 }
 .ps {
   flex: 0 0 25%;
