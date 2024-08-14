@@ -14,7 +14,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-image: url('/Images/calcul.jpeg');
+    background-image: url('/calcul.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     transition: 0.8s all;
